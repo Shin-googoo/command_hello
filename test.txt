@@ -1,12 +1,1 @@
 print("Tell her world");
-" ===========================================================================
-" Netrw Directory Listing                                        (netrw v171)
-"   /Users/shin-yong-goo/Documents/gitTest/test.txt
-"   Sorted by      name
-"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
-"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
-" ==============================================================================
-../                              0 화  1/17 10:06:27 2023
-./                               0 화  1/17 10:45:41 2023
-.DS_Store                        6148 화  1/17 10:39:46 2023
-test.txt/                        0 화  1/17 09:33:13 2023
