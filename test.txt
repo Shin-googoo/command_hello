@@ -1,5 +1,7 @@
-//For commit Git tutorial
+//For commit Git push test
+//For commit GitHub added test
 //Git modification
+
 print("Tell his");
 print("Tell his");
 print("Tell his world");
